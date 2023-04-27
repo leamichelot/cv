@@ -1,0 +1,8 @@
+button {
+    padding: 5px;
+    background-color: coral;
+}
+
+button:hover {
+    background-color: bisque;
+}
